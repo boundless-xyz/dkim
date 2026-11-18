@@ -1,3 +1,5 @@
+> **Archived:** This Boundless fork is no longer maintained and is preserved for reference. This does not change the status of the [upstream project](https://github.com/cloudflare/dkim). For context, see the [Boundless Foundation announcement](https://boundlessfdn.org/blog/zkc-the-ai-access-coin).
+
 # cfdkim
 
 > DKIM ([RFC6376]) implementation
